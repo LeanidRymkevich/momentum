@@ -1,0 +1,360 @@
+{
+  "ru" : [
+    {"quote" : "Гениальность — это один процент вдохновения и девяносто девять процентов труда.",
+     "author" : "Томас Эдисон"
+    },
+    {
+      "quote": "Многое можно заметить, просто наблюдая.",
+      "author": "Йоги Берра"
+    },
+    {
+      "quote": "И всякий город или дом, разделившийся сам в себе, не устоит.",
+      "author": "Авраам Линкольн"
+    },
+    {
+      "quote": "Трудности тем больше, чем ближе мы к цели.",
+      "author": "Иоганн Вольфганг фон Гёте"
+    },
+    {
+      "quote": "Судьба в ваших руках и ни в чьих других",
+      "author": "Байрон Пулсифер"
+    },
+    {
+      "quote": "Будь вождем, но никогда не господином.",
+      "author": "Лао-цзы"
+    },
+    {
+      "quote": "Ничего не произойдет, если сначала мы не помечтаем.",
+      "author": "Карл Сандберг"
+    },
+    {
+      "quote": "Хорошее начало - половина дела.",
+      "author": "Аристотель"
+    },
+    {
+      "quote": "Жизнь — это опыт обучения, только если вы учитесь.",
+      "author": "Йоги Берра"
+    },
+    {
+      "quote": "Самодовольство губительно для прогресса.",
+      "author": "Маргарет Сангстер"
+    },
+    {
+      "quote": "Мир приходит изнутри. Не ищите его снаружи.",
+      "author": "Будда"
+    },
+    {
+      "quote": "Что отдаешь, то и получаешь.",
+      "author": "Байрон Пулсифер"
+    },
+    {
+      "quote": "Мы можем научиться любить, только любя.",
+      "author": "Айрис Мердок"
+    },
+    {
+      "quote": "Жизнь — это перемены. Рост необязателен. Выбирайте с умом.",
+      "author": "Карен Кларк"
+    },
+    {
+      "quote": "Вы увидите это, когда поверите в это.",
+      "author": "Уэйн Дайер"
+    },
+    {
+      "quote": "Сегодня - это завтра, о котором мы беспокоились вчера.",
+      "author": "Неизвестен"
+    },
+    {
+      "quote": "Легче увидеть ошибки на чужой бумаге.",
+      "author": "Неизвестен"
+    },
+    {
+      "quote": "Каждый человек умирает. Не каждый человек действительно живет.",
+      "author": "Неизвестен"
+    },
+    {
+      "quote": "Чтобы вести людей идите рядом с ними.",
+      "author": "Лао-цзы"
+    },
+    {
+      "quote": "Не имея ничего, нечего терять.",
+      "author": "Уильям Шекспир"
+    },
+    {
+      "quote": "Беда - это только возможность в рабочей одежде.",
+      "author": "Генри Дж. Кайзер"
+    },
+    {
+      "quote": "Катающийся камень не покрывается мхом.",
+      "author": "Публий Сир"
+    },
+    {
+      "quote": "Идеи - отправная точка всех состояний.",
+      "author": "Наполеон Хилл"
+    },
+    {
+      "quote": "Всё в жизни удача.",
+      "author": "Дональд Трамп"
+    },
+    {
+      "quote": "Лучше ничего не делать, чем делать ничто.",
+      "author": "Лао-цзы"
+    },
+    {
+      "quote": "Доверяйте себе. Вы знаете больше, чем думаете.",
+      "author": "Бенджамин Спок"
+    },
+    {
+      "quote": "Изучай прошлое, если хочешь угадать будущее.",
+      "author": "Конфуций"
+    },
+    {
+      "quote": "День уже благословен, найди в нем покой.",
+      "author": "Неизвестен"
+    },
+    {
+      "quote": "От ошибки к ошибке открывается вся правда.",
+      "author": "Зигмунд Фрейд"
+    },
+    {
+      "quote": "Хорошо сделанное лучше, чем хорошо сказанное.",
+      "author": "Бенджамин Франклин"
+    },
+    {
+      "quote": "Откусите больше, чем сможете прожевать, а потом прожуйте.",
+      "author": "Элла Уильямс"
+    },
+    {
+      "quote": "Добейтесь своего собственного спасения сами. Не полагайтесь на других.",
+      "author": "Будда"
+    },
+    {
+      "quote": "Один сегодняшний день стоит двух завтрашних.",
+      "author": "Бенджамин Франклин"
+    },
+    {
+      "quote": "Как только вы выберете надежду, все возможно.",
+      "author": "Кристофер Рив"
+    },
+    {
+      "quote": "Бог всегда выбирает самый простой путь.",
+      "author": "Альберт Эйнштейн"
+    },
+    {
+      "quote": "Мы терпим неудачи на пути к успеху.",
+      "author": "Чарльз Кеттеринг"
+    },
+    {
+      "quote": "Обучение - это сокровище, которое повсюду будет следовать за своим владельцем",
+      "author": "Китайская пословица"
+    },
+    {
+      "quote": "Будь таким, каким хочешь казаться.",
+      "author": "Сократ"
+    },
+    {
+      "quote": "Мир всегда в движении.",
+      "author": "В. Найпол"
+    },
+    {
+      "quote": "Никогда не путайте действие с достижением.",
+      "author": "Джон Вуден"
+    },
+    {
+      "quote": "То, что вас беспокоит, управляет вами.",
+      "author": "Хэддон Робинсон"
+    },
+    {
+      "quote": "Человек встречает будущее со своим прошлым.",
+      "author": "Перл Бак"
+    },
+    {
+      "quote": "Цели - это топливо в топке достижений.",
+      "author": "Брайан Трейси"
+    },
+    {
+      "quote": "Кто сеет добродетель, тот пожинает честь.",
+      "author": "Леонардо да Винчи"
+    }
+  ],
+
+
+
+  "en" : [
+      {
+        "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+        "author": "Thomas Edison"
+      },
+      {
+        "quote": "You can observe a lot just by watching.",
+        "author": "Yogi Berra"
+      },
+      {
+        "quote": "A house divided against itself cannot stand.",
+        "author": "Abraham Lincoln"
+      },
+      {
+        "quote": "Difficulties increase the nearer we get to the goal.",
+        "author": "Johann Wolfgang von Goethe"
+      },
+      {
+        "quote": "Fate is in your hands and no one elses",
+        "author": "Byron Pulsifer"
+      },
+      {
+        "quote": "Be the chief but never the lord.",
+        "author": "Lao Tzu"
+      },
+      {
+        "quote": "Nothing happens unless first we dream.",
+        "author": "Carl Sandburg"
+      },
+      {
+        "quote": "Well begun is half done.",
+        "author": "Aristotle"
+      },
+      {
+        "quote": "Life is a learning experience, only if you learn.",
+        "author": "Yogi Berra"
+      },
+      {
+        "quote": "Self-complacency is fatal to progress.",
+        "author": "Margaret Sangster"
+      },
+      {
+        "quote": "Peace comes from within. Do not seek it without.",
+        "author": "Buddha"
+      },
+      {
+        "quote": "What you give is what you get.",
+        "author": "Byron Pulsifer"
+      },
+      {
+        "quote": "We can only learn to love by loving.",
+        "author": "Iris Murdoch"
+      },
+      {
+        "quote": "Life is change. Growth is optional. Choose wisely.",
+        "author": "Karen Clark"
+      },
+      {
+        "quote": "You'll see it when you believe it.",
+        "author": "Wayne Dyer"
+      },
+      {
+        "quote": "Today is the tomorrow we worried about yesterday.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "It's easier to see the mistakes on someone else's paper.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "Every man dies. Not every man really lives.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "To lead people walk behind them.",
+        "author": "Lao Tzu"
+      },
+      {
+        "quote": "Having nothing, nothing can he lose.",
+        "author": "William Shakespeare"
+      },
+      {
+        "quote": "Trouble is only opportunity in work clothes.",
+        "author": "Henry J. Kaiser"
+      },
+      {
+        "quote": "A rolling stone gathers no moss.",
+        "author": "Publilius Syrus"
+      },
+      {
+        "quote": "Ideas are the beginning points of all fortunes.",
+        "author": "Napoleon Hill"
+      },
+      {
+        "quote": "Everything in life is luck.",
+        "author": "Donald Trump"
+      },
+      {
+        "quote": "Doing nothing is better than being busy doing nothing.",
+        "author": "Lao Tzu"
+      },
+      {
+        "quote": "Trust yourself. You know more than you think you do.",
+        "author": "Benjamin Spock"
+      },
+      {
+        "quote": "Study the past, if you would divine the future.",
+        "author": "Confucius"
+      },
+      {
+        "quote": "The day is already blessed, find peace within it.",
+        "author": "Unknown"
+      },
+      {
+        "quote": "From error to error one discovers the entire truth.",
+        "author": "Sigmund Freud"
+      },
+      {
+        "quote": "Well done is better than well said.",
+        "author": "Benjamin Franklin"
+      },
+      {
+        "quote": "Bite off more than you can chew, then chew it.",
+        "author": "Ella Williams"
+      },
+      {
+        "quote": "Work out your own salvation. Do not depend on others.",
+        "author": "Buddha"
+      },
+      {
+        "quote": "One today is worth two tomorrows.",
+        "author": "Benjamin Franklin"
+      },
+      {
+        "quote": "Once you choose hope, anythings possible.",
+        "author": "Christopher Reeve"
+      },
+      {
+        "quote": "God always takes the simplest way.",
+        "author": "Albert Einstein"
+      },
+      {
+        "quote": "One fails forward toward success.",
+        "author": "Charles Kettering"
+      },
+      {
+        "quote": "Learning is a treasure that will follow its owner everywhere",
+        "author": "Chinese proverb"
+      },
+      {
+        "quote": "Be as you wish to seem.",
+        "author": "Socrates"
+      },
+      {
+        "quote": "The world is always in movement.",
+        "author": "V. Naipaul"
+      },
+      {
+        "quote": "Never mistake activity for achievement.",
+        "author": "John Wooden"
+      },
+      {
+        "quote": "What worries you masters you.",
+        "author": "Haddon Robinson"
+      },
+      {
+        "quote": "One faces the future with ones past.",
+        "author": "Pearl Buck"
+      },
+      {
+        "quote": "Goals are the fuel in the furnace of achievement.",
+        "author": "Brian Tracy"
+      },
+      {
+        "quote": "Who sows virtue reaps honour.",
+        "author": "Leonardo da Vinci"
+      }
+  ]
+}

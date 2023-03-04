@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'Arial-MT';
+  src: url("../fonts/Arial-MT.woff");
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-height: 100vh;
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
+  color: #fff;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;            
+  background-attachment: fixed;
+  background-blend-mode: multiply;
+  transition: background-image 1s ease-in-out;
+}
+
+/*class to remove animation while page is loading*/
+.preload * {
+  transition: none !important;
+}

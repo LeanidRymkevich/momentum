@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Momentum</title>
+  <link rel="stylesheet" href="src/css/owfont-regular.css">
+  <link rel="stylesheet" href="src/css/style.css">
+  <link rel="icon" href="src/img/favicon.ico">
+</head>
+
+<body class="preload">
+  <header class="header">
+    <div class="player">
+      <div class="player-controls">
+        <button class="play-prev player-icon"></button>
+        <button class="play player-icon"></button>
+        <button class="play-next player-icon"></button>
+      </div>
+      <p class="track-name"></p>
+      <div class="progress-bar">
+        <input class="progress" type="range" min="0" max="100" step="0.001" value="0">
+        <span class="timer">00:00 / 00:00</span>
+      </div>
+      <div class="volume-bar">
+        <button class="volume-button volume-button_on"></button>
+        <input class="volume-control" type="range" min="0" max="10" step="0.001" value="7">
+      </div>
+      <ul class="play-list"></ul>
+    </div>
+    <div class="weather-wrapper">
+      <div class="weather">
+        <input type="text" class="city" value="" placeholder=""/>
+        <div class="weather-error"></div>
+        <div class="weather-icon"></div></div>
+        <div class="description-container">
+          <span class="temperature"></span>
+          <span class="weather-description"></span>
+        </div>
+        <div class="wind"></div>
+        <div class="humidity"></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="main">
+    <div class="slider-prev">
+      <button class="slider-prev__button slider-icon"></button>
+    </div>
+    <div class="main__content">
+      <p class="time"></p>
+      <p class="date"></p>
+      <div class="greeting-container">
+        <span class="greeting"></span>
+        <input type="text" class="user-name" placeholder=""/>
+      </div>
+    </div>
+    <div class="slider-next">
+      <button class="slider-next__button slider-icon"></button>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="left-bar">
+      <div class="todo">
+        <button class="todo__button">Todo</button>
+        <div class="todo__window">
+          <div class="todo__window-header">
+            <div class="todo__accordion accordion">
+              <button class="accordion__button" type="button">
+                <span class="accordion__chosen-item"></span>
+                <span class="accordion__arrow">
+                  <span class="arrow"></span>
+                </span>
+              </button>
+              <ul class="accordion__list">
+                <li data-item-name="Today" class="accordion__item">
+                  <span class="accordion__item-name"></span>
+                  <span class="accordion__item-counter"></span>
+                </li>
+                <li data-item-name="Inbox" class="accordion__item">
+                  <span class="accordion__item-name"></span>
+                  <span class="accordion__item-counter"></span>
+                </li>
+                <li data-item-name="Done" class="accordion__item">
+                  <span class="accordion__item-name"></span>
+                  <span class="accordion__item-counter"></span>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <ul class="todo__window-body body-list">
+            <li data-item-name="Today" class="body-list__item body-list__item_active">
+              <ul data-item-name="Today" class="body-sublist sublist"></ul>
+            </li>
+            <li data-item-name="Inbox" class="body-list__item">
+              <ul data-item-name="Inbox" class="body-sublist sublist"></ul>
+            </li>
+            <li data-item-name="Done" class="body-list__item">
+              <ul data-item-name="Done" class="body-sublist sublist"></ul>
+            </li>
+          </ul>
+          <div class="todo__window-footer">
+            <input type="text" value="" placeholder="Enter here">
+          </div>
+        </div>
+      </div>
+      <div class="settings">
+        <button class="settings__button"></button>
+        <ul class="settings__menu">
+          <li class="settings__header settings__menu-item"></li>
+          <li class="settings__language settings__menu-item">
+            <label for="language"></label>
+            <select id="language">
+              <option value="ru" selected></option>
+              <option value="en"></option>
+            </select>
+          </li>
+          <li class="settings__backgroud-source settings__menu-item">
+            <label for="backgroud-source"></label>
+            <select id="backgroud-source">
+              <option value="GitHub" selected>GitHub</option>
+              <option value="Unsplash API">Unsplash API</option>
+              <option value="Flicr API">Flicr API</option>
+            </select>
+            <input type="text" class="image-tag" value="" placeholder=""/>
+            <span class="tag-error"></span>
+          </li>
+          <li class="settings__visible-blocks settings__menu-item">
+            <p class="visible-blocks-header"></p>
+            <div>
+              <span class="player-block"></span>
+              <input type="checkbox" name="player-block" value="player" checked>
+            </div>
+            <div>
+              <span class="weather-block"></span>
+              <input type="checkbox" name="weather-block" value="weather-wrapper" checked>
+            </div>
+            <div>
+              <span class="time-block"></span>
+              <input type="checkbox" name="time-block" value="time" checked>
+            </div>
+            <div>
+              <span class="date-block"></span>
+              <input type="checkbox" name="date-block" value="date" checked>
+            </div>
+            <div>
+              <span class="greetings-block"></span>
+              <input type="checkbox" name="greetings-block" value="greeting-container" checked>
+            </div>
+            <div>
+              <span class="quotes-block"></span>
+              <input type="checkbox" name="quotes-block" value="quote-container" checked>
+            </div>
+            <div>
+              <span class="todo-block">Todo</span>
+              <input type="checkbox" name="todo-block" value="todo" checked>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="quote-container">
+      <button class="change-quote"></button>
+      <div>
+        <p class="quote"></p>
+        <p class="author"></p>
+      </div>
+    </div>
+    <div class="links">
+      <p class="copyright">
+        <span class="copyright__icon">&copy;</span>
+        <span class="copyright__text">2023</span>
+        <a href="https://github.com/LeanidRymkevich" class="github-logo" target="_blank"></a>
+      </p>
+      <a href="https://rs.school/js/" class="rss-logo" target="_blank"></a>
+    </div>
+    <script type="module" src="src/scripts/settings.js"></script>
+    <script type="module" src="src/scripts/weather.js"></script>
+    <script type="module" src="src/scripts/player.js"></script>
+    <script type="module" src="src/scripts/date&time.js"></script>
+    <script type="module" src="src/scripts/quotes.js"></script>
+    <script type="module" src="src/scripts/todo.js"></script>
+    <script src="index.js"></script>
+  </footer>
+</body>
+</html>
